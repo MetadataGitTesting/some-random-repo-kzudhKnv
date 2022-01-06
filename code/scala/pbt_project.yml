@@ -1,0 +1,22 @@
+name: damien.haag
+description: User fork
+version: 1
+author: fredia.lebsack@hotmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: fredia.lebsack@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-06 00:47:09'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Silas_Howe_DDS:
+    name: Silas_Howe_DDS
+    description: Really solid info
+    createdAt: '2022-01-06 00:47:09'
+    author: fredia.lebsack@hotmail.com
